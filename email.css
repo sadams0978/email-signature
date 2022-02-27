@@ -1,0 +1,16 @@
+h3 {
+color: #2EA3F2;
+font-family: "Copperplate", "Lucida Console", monospace;
+font-weight: bold;
+
+}
+
+img {
+  max-width:30%;
+
+max-height:30%;
+  image-orientation: from-image;
+  border: 5px solid #555;
+  
+
+}
